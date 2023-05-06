@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1667959598 source:c:\users\eduar\downloads\studentdatatable\main.cpp
+	<iostream>
+	<string>
+	"roster.h"
+
+1667751755 source:c:\users\eduar\downloads\studentdatatable\src\degree.cpp
+	"degree.h"
+
+1667957118 c:\users\eduar\downloads\studentdatatable\include\degree.h
+	<string>
+	<iostream>
+
+1667960043 source:c:\users\eduar\downloads\studentdatatable\src\roster.cpp
+	<string>
+	"roster.h"
+	"degree.h"
+	"student.h"
+	<iostream>
+
+1667957118 c:\users\eduar\downloads\studentdatatable\include\roster.h
+	"student.h"
+	"degree.h"
+	<string>
+	<iostream>
+	<stdio.h>
+
+1667957118 c:\users\eduar\downloads\studentdatatable\include\student.h
+	"Degree.h"
+	<iostream>
+	<stdio.h>
+	<iomanip>
+
+1667959571 source:c:\users\eduar\downloads\studentdatatable\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+	<sstream>
+
